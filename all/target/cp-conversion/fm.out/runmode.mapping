@@ -1,0 +1,4 @@
+#File edited by the Apache Sling Content Package to Sling Feature converter
+#Mon Jun 23 12:22:09 BST 2025
+(default)=mysite.all.json
+author=mysite.all-author.json
