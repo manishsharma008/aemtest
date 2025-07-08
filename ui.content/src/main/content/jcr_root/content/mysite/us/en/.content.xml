@@ -40,7 +40,7 @@
                                 width="4"/>
                         </cq:responsive>
                     </teaser>
-                    <teaser_copy
+                    <teaser_1
                         jcr:description="&lt;p>Don't stop half way, go for the top!&lt;/p>&#xd;&#xa;"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Epic Journey"
@@ -55,7 +55,7 @@
                                 offset="0"
                                 width="4"/>
                         </cq:responsive>
-                    </teaser_copy>
+                    </teaser_1>
                     <teaser_copy_1579324932
                         jcr:description="&lt;p>Don't stop half way, go for the top!&lt;/p>&#xd;&#xa;"
                         jcr:primaryType="nt:unstructured"
@@ -80,4 +80,5 @@
             </container>
         </root>
     </jcr:content>
+    <test/>
 </jcr:root>
